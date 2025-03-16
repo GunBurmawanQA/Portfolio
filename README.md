@@ -1,6 +1,17 @@
-Overview of My Manual QA Tester Portfolio![image](https://github.com/user-attachments/assets/6df5be79-83de-470f-815c-e0b95acc7edd)
-My name is Gun Gun Burmawan, a certified Manual QA Tester from Growia Education, with a strong dedication to ensuring software quality and optimal performance. With a professional background as an entrepreneur, I bring a keen analytical mindset and strong attention to detail to the field of quality assurance. I have a comprehensive understanding of the Software Development Life Cycle (SDLC), along with hands-on experience in developing test plans, designing detailed test cases, and executing both functional and non-functional testing. I am proficient in identifying bugs, documenting defects, and collaborating effectively with development teams to ensure the timely resolution of issues. My expertise includes regression testing. I am committed to contributing to the delivery of high-quality software solutions, enhancing user satisfaction, and supporting organizational objectives through robust quality assurance practices.
-![image](https://github.com/user-attachments/assets/578df7a6-1ff9-4bac-bc50-e1f05712c52a)
+Manual QA Portfolio – Gun Gun Burmawan, Certified QA Tester
+
+Hi, I'm Gun Gun Burmawan — a Certified Manual QA Tester from Growia Education, passionate about ensuring high-quality software and excellent user experience.
+
+I bring a strong analytical mindset, sharp attention to detail, and a solid understanding of the Software Development Life Cycle (SDLC). With hands-on experience in:
+
+Designing detailed test plans & test cases
+Performing functional and non-functional testing
+Identifying and documenting bugs & defects
+Conducting regression testing
+Collaborating effectively with development teams
+I’m committed to delivering top-notch QA contributions that enhance software reliability, user satisfaction, and project success.
+
+📌 Currently building my QA portfolio with real-case projects — feel free to explore!
 
 About Me![image](https://github.com/user-attachments/assets/537638cb-5eb4-4068-aa7a-d10a99339471)
 I am a certified Manual Quality Assurance professional from Growia Education, equipped with solid competencies in test planning, test case design, and defect tracking. My prior experience as an entrepreneur has provided a distinctive perspective and broadened my approach to quality assurance practices. I am currently seeking opportunities to advance my career as a Manual QA Tester and contribute meaningfully to the delivery of reliable and high-quality software solutions.
