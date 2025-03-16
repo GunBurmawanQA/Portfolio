@@ -5,7 +5,8 @@ This portfolio showcases the results of the manual quality evaluation of the Gro
 - ✅ Test Case Design  
 - ✅ Bug Report Summary  
 - ✅ Test Result Analysis  
-- ✅ (https://github.com/GunBurmawanQA/Portfolio/raw/main/Gun%20Gun%20Burmawan%20Portfolio%20Presentation.pptx)
+- ✅ [Presentation Slides](https://github.com/GunBurmawanQA/Portfolio/raw/main/Gun%20Gun%20Burmawan%20Portfolio%20Presentation.pptx)
+
 
 
 
@@ -17,9 +18,12 @@ This portfolio showcases the results of the manual quality evaluation of the Gro
 To evaluate the functionality, usability, and reliability of the GrowiaShop website through manual testing processes, following a structured QA methodology.
 
 ## Key Outcomes
-- Identified critical and major bugs that affect user experience
-- Documented testing activities in professional QA documentation format
-- Demonstrated understanding of test execution flow, prioritization, and severity assessment
+- Total Test Cases: 65
+- Passed: 37
+- Failed: 28
+- Priority: High (23), Medium (5), Low (0)
+- Severity: Major (28), Minor (1), Critical (0)
+
 
 ## Author
 **Gun Gun Burmawan**  
