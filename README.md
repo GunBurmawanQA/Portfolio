@@ -5,8 +5,7 @@ This portfolio showcases the results of the manual quality evaluation of the Gro
 - ✅ Test Case Design  
 - ✅ Bug Report Summary  
 - ✅ Test Result Analysis  
-- ✅ [Presentation Slides](https://github.com/GunBurmawanQA/Portfolio/raw/main/Gun%20Gun%20Burmawan%20Portfolio%20Presentation.pptx)
-
+- ✅ [Presentation Slides](05-Presentation/GunGun_Portfolio_Presentation.pptx)
 
 
 
