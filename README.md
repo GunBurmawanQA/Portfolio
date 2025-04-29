@@ -51,8 +51,8 @@ To evaluate the functionality, usability, and reliability of the GrowiaShop webs
 ## Key Outcomes
 - Total Test Cases: 65
 - Passed: 37
-- Failed: 28
-- Priority: High (23), Medium (5), Low (0)
+- Failed: 29
+- Priority: High (24), Medium (5), Low (0)
 - Severity: Major (28), Minor (1), Critical (0)
 
 
