@@ -38,7 +38,7 @@ This portfolio showcases the results of the manual quality evaluation of the Gro
 - ✅ Test Case Design  
 - ✅ Bug Report Summary  
 - ✅ Test Result Analysis  
-- ✅ [Presentation Slides](05-Presentation/GunGun_Portfolio_Presentation.pptx)
+- ✅ 
 
 
 ## Tools Used
