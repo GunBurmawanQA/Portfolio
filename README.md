@@ -13,7 +13,7 @@ I’m committed to delivering top-notch QA contributions that enhance software r
 
 📌 Currently building my QA portfolio with real-case projects — feel free to explore!
 
-[image](https://github.com/user-attachments/assets/537638cb-5eb4-4068-aa7a-d10a99339471)
+## About Me![image](https://github.com/user-attachments/assets/537638cb-5eb4-4068-aa7a-d10a99339471)
 I am a certified Manual Quality Assurance professional from Growia Education, equipped with solid competencies in test planning, test case design, and defect tracking. My prior experience as an entrepreneur has provided a distinctive perspective and broadened my approach to quality assurance practices. I am currently seeking opportunities to advance my career as a Manual QA Tester and contribute meaningfully to the delivery of reliable and high-quality software solutions.
 ![image](https://github.com/user-attachments/assets/10988c49-d3e0-49cb-b216-60e2a5a1a50e)
 
